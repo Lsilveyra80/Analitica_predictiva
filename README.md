@@ -32,3 +32,9 @@ Ajustar el modelo con datos históricos.
 Generar predicciones.
 Evaluación y Visualización: Comparar predicciones con datos reales.
 Conclusión: Insights clave sobre las predicciones.
+
+## 5. Siguientes Pasos
+Ejecuta el código para entender cómo funciona ARIMA.
+Ajusta los parámetros (p, d, q) del modelo para mejorar la precisión.
+Si quieres probar Prophet para series temporales más complejas, puedo guiarte para implementarlo.
+Documenta este análisis en tu repositorio de GitHub.
